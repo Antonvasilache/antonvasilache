@@ -17,6 +17,7 @@
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
 <img src="https://img.icons8.com/color/35/react-native.png"/>
 <img src="https://img.icons8.com/color/35/redux.png"/>
+<img src="https://img.icons8.com/color/35/tailwind_css.png"/>
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/35/000000/github.png"/>    
 </p>
