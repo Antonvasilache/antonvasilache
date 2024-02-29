@@ -1,6 +1,6 @@
-### Hi there. I am Anton. 
+## Hi there. I am Anton. 
 
-## Frontend developer, passionate about software engineering and technology, focused on web applications development with HTML/CSS, Javascript, React, Redux, Tailwind/CSS. Looking to expand my knowledge with new languages and patterns.
+### Frontend developer, passionate about software engineering and technology, focused on web applications development with HTML/CSS, Javascript, React, Redux, Tailwind/CSS. Looking to expand my knowledge with new languages and patterns.
 
 <!--
 **Antonvasilache/antonvasilache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
