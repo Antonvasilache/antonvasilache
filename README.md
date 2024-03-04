@@ -31,16 +31,7 @@
     </tr>
   </thead>
   <tbody> 
-  <tr>
-      <td>
-        <a href="https://react-quiz-av.vercel.app/" target="_blank">React Quiz</a>
-      </td>
-      <td>An application for playing a quiz game, where you can answer a series of questions related to the React library and then measure your score at the end.<br> Tech/frameworks used: 
-Javascript,
-React,
-Create-react-app </br></td>
-    </tr>
-    <tr>
+      <tr>
       <td>
         <a href="https://hotel-admin-av.vercel.app" target="_blank">Hotel Admin</a>
       </td>
@@ -52,6 +43,15 @@ Styled Components,
 Vite,
 Supabase </br></td>
     </tr> 
+  <tr>
+      <td>
+        <a href="https://react-quiz-av.vercel.app/" target="_blank">React Quiz</a>
+      </td>
+      <td>An application for playing a quiz game, where you can answer a series of questions related to the React library and then measure your score at the end.<br> Tech/frameworks used: 
+Javascript,
+React,
+Create-react-app </br></td>
+    </tr>
   </tr>
     <tr>
       <td>
