@@ -39,7 +39,19 @@
 Javascript
 React
 Create-react-app </br></td>
-    </tr>   
+    </tr>
+    <tr>
+      <td>
+        <a href="https://hotel-admin-av.vercel.app" target="_blank">Hotel Admin</a>
+      </td>
+      <td>A website for managing hotel activities from an internal user (hotel employee) perspective. You can check recent guest bookings, confirm guest check-in and check-out, add and edit hotel rooms and view statistics for various periods of time<br> HTML/CSS
+Javascript
+React
+React Query
+Styled Components
+Vite
+Supabase </br></td>
+    </tr> 
   </tbody>
 </table>
 
