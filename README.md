@@ -20,5 +20,25 @@
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/35/000000/github.png"/>    
 </p>
-  
+
+### Some of my favourite projects  
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://react-quiz-av.vercel.app/" target="_blank"></a>
+      </td>
+      <td>An application for playing a quiz game, where you can answer a series of questions related to the React library and then measure your score at the end.<br> HTML/CSS
+Javascript
+React
+Create-react-app </br></td>
+    </tr>
+  </tbody>
 
