@@ -74,8 +74,8 @@ Vite </br></td>
 HTML/CSS,
 Javascript,
 React,
-Create-react-app,
-Vite </br></td>
+Create-react-app
+</br></td>
     </tr> 
   <tr>
       <td>
@@ -85,8 +85,8 @@ Vite </br></td>
 Javascript,
 React,
 OMDb API,
-Create-react-app,
-Vite </br></td>
+Create-react-app
+</br></td>
     </tr> 
   </tbody>
 </table>
