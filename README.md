@@ -3,7 +3,7 @@
 ### Frontend developer, passionate about software engineering and technology, focused on web applications development with HTML/CSS, Javascript, React, Redux, Tailwind/CSS. Looking to expand my knowledge with new languages and patterns.
 
 - 🔭 I’m currently working on React web applications.
-- 🌱 I’m currently learning , Node.js, Next.js, Typescript
+- 🌱 I’m currently learning Node.js, Next.js, Typescript
 - 👯 I’m looking to collaborate on projects involving frontend development.
 - 💬 I like having conversations about new techonologies, patterns, automation and productivity.
 - 🎸 I enjoy travelling the world and playing guitar every now and then
