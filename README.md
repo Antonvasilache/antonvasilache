@@ -68,7 +68,7 @@ Vite </br></td>
   </tr>
     <tr>
       <td>
-        <a href="https://pocket-calculator-self.vercel.app/" target="_blank">Pocket Calculator</a>
+        <a href="https://pocket-calculator-av.vercel.app/" target="_blank">Pocket Calculator</a>
       </td>
       <td>A simple calculator app that takes after the functionality of a pocket calculator, able to perform basic calculus and display the results in the same way.<br> Tech/frameworks used: 
 HTML/CSS,
@@ -79,7 +79,7 @@ Create-react-app
     </tr> 
   <tr>
       <td>
-        <a href="https://moviewise-rho.vercel.app/" target="_blank">MovieWise</a>
+        <a href="https://moviewise-av.vercel.app/" target="_blank">MovieWise</a>
       </td>
       <td>An application where you can search for movies, within a movie database, similar to IMDB.<br> Tech/frameworks used: 
 Javascript,
