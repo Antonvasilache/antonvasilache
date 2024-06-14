@@ -31,19 +31,7 @@
     </tr>
   </thead>
   <tbody> 
-      <tr>
-      <td>
-        <a href="https://hotel-admin-av.vercel.app" target="_blank">Hotel Admin</a>
-      </td>
-      <td>A website for managing hotel activities from an internal user (hotel employee) perspective. You can check recent guest bookings, confirm guest check-in and check-out, add and edit hotel rooms and view statistics for various periods of time.<br> Tech/frameworks used: 
-Javascript,
-React,
-React Query,
-Styled Components,
-Vite,
-Supabase </br></td>
-    </tr> 
-   <tr>
+    <tr>
       <td>
         <a href="https://hotel-website-demo-ten.vercel.app/" target="_blank">Hotel Website</a>
       </td>
@@ -55,6 +43,18 @@ Next-auth,
 Tailwind,
 Supabase </br></td>
     </tr> 
+      <tr>
+      <td>
+        <a href="https://hotel-admin-av.vercel.app" target="_blank">Hotel Admin</a>
+      </td>
+      <td>A website for managing hotel activities from an internal user (hotel employee) perspective. You can check recent guest bookings, confirm guest check-in and check-out, add and edit hotel rooms and view statistics for various periods of time.<br> Tech/frameworks used: 
+Javascript,
+React,
+React Query,
+Styled Components,
+Vite,
+Supabase </br></td>
+    </tr>    
   <tr>
       <td>
         <a href="https://react-quiz-av.vercel.app/" target="_blank">React Quiz</a>
@@ -77,18 +77,7 @@ Redux,
 TailwindCSS,
 Vite </br></td>
     </tr>
-  </tr>
-    <tr>
-      <td>
-        <a href="https://pocket-calculator-av.vercel.app/" target="_blank">Pocket Calculator</a>
-      </td>
-      <td>A simple calculator app that takes after the functionality of a pocket calculator, able to perform basic calculus and display the results in the same way.<br> Tech/frameworks used: 
-HTML/CSS,
-Javascript,
-React,
-Create-react-app
-</br></td>
-    </tr> 
+  </tr>    
   <tr>
       <td>
         <a href="https://moviewise-av.vercel.app/" target="_blank">MovieWise</a>
