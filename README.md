@@ -43,6 +43,18 @@ Styled Components,
 Vite,
 Supabase </br></td>
     </tr> 
+   <tr>
+      <td>
+        <a href="https://hotel-website-demo-ten.vercel.app/" target="_blank">Hotel Website</a>
+      </td>
+      <td>A hotel website, where customers can check out the property and book their stays based on available dates and rooms. You can create a user account, book your stays, manage your reservations and user details.<br> Tech/frameworks used: 
+Javascript,
+React,
+Next.js,
+Next-auth,
+Tailwind,
+Supabase </br></td>
+    </tr> 
   <tr>
       <td>
         <a href="https://react-quiz-av.vercel.app/" target="_blank">React Quiz</a>
