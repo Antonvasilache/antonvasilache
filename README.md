@@ -57,12 +57,12 @@ Supabase </br></td>
     </tr>    
   <tr>
       <td>
-        <a href="https://react-quiz-av.vercel.app/" target="_blank">React Quiz</a>
+        <a href="https://frontend-quiz-app-av.netlify.app/" target="_blank">Frontend Quiz App</a>
       </td>
-      <td>An application for playing a quiz game, where you can answer a series of questions related to the React library and then measure your score at the end.<br> Tech/frameworks used: 
+      <td>An application for playing a quiz game, where you can answer a series of questions related to a chosen frontend topic and then measure your score at the end.<br> Tech/frameworks used: 
 Javascript,
 React,
-Create-react-app </br></td>
+Vite </br></td>
     </tr>
   </tr>
     <tr>
