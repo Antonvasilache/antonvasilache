@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on React or Python web applications.
 - 🌱 I’m currently learning Python, Next.js, Typescript
-- 👯 I’m looking to collaborate on projects involving frontend development.
+- 👯 I’m looking to collaborate on projects involving web development.
 - 💬 I like having conversations about new techonologies, patterns, automation and productivity.
 - 🎸 I enjoy travelling the world and playing guitar every now and then
 - 📫 How to reach me: <a href="https://linkedin.com/in/anton-vasilache" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a><a href="mailto:vasilacheanton91@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
