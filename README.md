@@ -2,7 +2,7 @@
 
 ### Developer, passionate about software engineering and technology, focused on web applications development with HTML/CSS, Javascript, React, Next.js, Python. Looking to expand my knowledge with new languages and patterns.
 
-- 🔭 I’m currently working on React or Python web applications.
+- 🔭 I’m currently working on React or Python applications.
 - 🌱 I’m currently learning Python, Next.js, Typescript
 - 👯 I’m looking to collaborate on projects involving web development.
 - 💬 I like having conversations about new techonologies, patterns, automation and productivity.
