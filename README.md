@@ -66,15 +66,10 @@ Supabase </br></td>
     </tr> 
       <tr>
       <td>
-        <a href="https://hotel-admin-av.vercel.app" target="_blank">Hotel Admin</a>
+        <a href="[https://hotel-admin-av.vercel.app](https://github.com/Antonvasilache/static-site-generator/tree/main)" target="_blank">Static Site Generator</a>
       </td>
-      <td>A website for managing hotel activities from an internal user (hotel employee) perspective. You can check recent guest bookings, confirm guest check-in and check-out, add and edit hotel rooms and view statistics for various periods of time.<br> Tech/frameworks used: 
-Javascript,
-React,
-React Query,
-Styled Components,
-Vite,
-Supabase </br></td>
+      <td>A Python app that converts markdown content to html and generates static websites based on the generated html<br> Tech/frameworks used: 
+Python </br></td>
     </tr>    
   <tr>
       <td>
