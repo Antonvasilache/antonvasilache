@@ -1,10 +1,10 @@
 ## Hi there. I am Anton. 
 
-### Developer, passionate about software engineering and technology, focused on applications development with HTML/CSS, JavaScript, React, Next.js, Python. Looking to expand my knowledge with new languages and patterns.
+### Developer, passionate about software engineering and technology, focused on applications development with JavaScript, React, Python, Go. Looking to expand my knowledge with new languages and patterns.
 
-- 🔭 I’m currently working on React or Python applications.
-- 🌱 I’m currently learning Python, Next.js, Typescript
-- 👯 I’m looking to collaborate on projects involving amy of these languages.
+- 🔭 I’m currently working on React or Go applications.
+- 🌱 I’m currently learning Go
+- 👯 I’m looking to collaborate on projects involving any of these languages.
 - 💬 I like having conversations about new techonologies, patterns, automation and productivity.
 - 🎸 I enjoy travelling the world and playing guitar every now and then
 - 📫 How to reach me: <a href="https://linkedin.com/in/anton-vasilache" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a><a href="mailto:vasilacheanton91@gmail.com" target="blank"><img src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
