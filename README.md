@@ -66,7 +66,7 @@ Supabase </br></td>
     </tr> 
       <tr>
       <td>
-        <a href="[https://hotel-admin-av.vercel.app](https://github.com/Antonvasilache/static-site-generator/tree/main)" target="_blank">Static Site Generator</a>
+        <a href="https://github.com/Antonvasilache/static-site-generator/tree/main" target="_blank">Static Site Generator</a>
       </td>
       <td>A Python app that converts markdown content to html and generates static websites based on the generated html<br> Tech/frameworks used: 
 Python </br></td>
